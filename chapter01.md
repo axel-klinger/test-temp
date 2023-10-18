@@ -1,6 +1,6 @@
 # Pythagorean theorem
 
-## Representation
+## Test
 
 ![Representation of the Pythagorean Theorem](https://upload.wikimedia.org/wikipedia/commons/d/d1/01-Rechtwinkliges_Dreieck-Pythagoras.svg)  
 
