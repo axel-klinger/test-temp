@@ -8,12 +8,12 @@ This is a template for open and freely licensed texts that delivers appealing, a
 
 With every save (commit) the documents are generated and available via:
 
-* [landing page](https://tibhannover.github.io/markdown-documents-template/)
+* [landing page](https://axel-klinger.github.io/test-temp/)
 
 or directly 
-* [Ebook](https://tibhannover.github.io/markdown-documents-template/document.epub)
-* [PDF](https://tibhannover.github.io/markdown-documents-template/document.pdf)
-* [HTML](https://tibhannover.github.io/markdown-documents-template/document.html)
+* [Ebook](https://axel-klinger.github.io/test-temp/document.epub)
+* [PDF](https://axel-klinger.github.io/test-temp/document.pdf)
+* [HTML](https://axel-klinger.github.io/test-temp/document.html)
 
 # Use this template
 
